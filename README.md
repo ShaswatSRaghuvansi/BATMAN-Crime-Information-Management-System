@@ -1,7 +1,7 @@
-** B.A.T.M.A.N. Crime Information Management System
-# AKA Crime Information Management System
+# B.A.T.M.A.N. Crime Information Management System
+## AKA Crime Information Management System
 
-# Powered By
+## Powered By
 <ul>
 <li>Core JAVA</li>
 <li>OOPs Concepts</li>
