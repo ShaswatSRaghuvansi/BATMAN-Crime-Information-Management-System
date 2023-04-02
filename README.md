@@ -1,2 +1,58 @@
-# gullible-position-2751
-# Crime Information Management System
+# B.A.T.M.A.N. Crime Information Management System
+# AKA Crime Information Management System
+
+# Powered By
+<ul>
+<li>Core JAVA</li>
+<li>OOPs Concepts</li>
+<li>Exception Handling</li>
+<li>Inheritence</li>
+<li>Netlify</li>
+</ul>
+
+
+## Domain Description:
+
+The main objective of this system is to maintain and manage detailed information on the
+crime that happened in Gotham City under a particular police station.
+
+## Roles:
+
+- Admin role
+- public role (no account required)
+
+## Admin can:
+
+**Note: Admin Username: ‘admin’ password: ‘admin’**
+
+```
+1. Add crime details (Robbery, Theft, Homicide), description, police station area, date, name of victim.
+
+2. update crime details, can update type, description, date and name of victim.
+
+3. Add criminal details, name, dob, gender, identifying_mark, first_arrest_date, arrested_from_ps_area.
+
+4. update criminal details like using criminal_id, can update name, dob, gender, identifying_mark, first_arrest_date, arrested_from_ps_area.
+
+5. Assign criminals to crime.
+
+6. remove criminal from crime.
+
+7. delete crime using crime_id.
+
+8. delete criminal using criminal_id.
+```
+
+## Facilities available for public:
+
+```
+1. Can view total crime for each police station area for a date range.
+
+2. Can view total crime for each crime type for a date range.
+
+3. Can search for criminal by name.
+
+4. Can search for crime by description.
+```
+
+## धन्यवाद् , 'सुरक्षा आपकी, संकल्प हमारा'
