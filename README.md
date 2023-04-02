@@ -26,13 +26,13 @@ crime that happened in Gotham City under a particular police station.
 **Note: Admin Username: ‘admin’ password: ‘admin’**
 
 ```
-1. Add crime details (Robbery, Theft, Homicide), description, police station area, date, name of victim.
+1. Add crime details (Robbery, Theft, Homicide), description, police station area, name of victim.
 
 2. update crime details, can update type, description, date and name of victim.
 
-3. Add criminal details, name, dob, gender, identifying_mark, first_arrest_date, arrested_from_ps_area.
+3. Add criminal details, name, dob, gender, identifying_mark, first_arrest_date.
 
-4. update criminal details like using criminal_id, can update name, dob, gender, identifying_mark, first_arrest_date, arrested_from_ps_area.
+4. update criminal details like using criminal_id, can update name, dob, gender, identifying_mark.
 
 5. Assign criminals to crime.
 
