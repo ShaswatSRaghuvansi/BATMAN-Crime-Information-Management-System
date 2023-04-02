@@ -19,7 +19,7 @@ crime that happened in Gotham City under a particular police station.
 ## Roles:
 
 - Admin role
-- public role (no account required)
+- Public role (Not Accepting Currently)
 
 ## Admin can:
 
