@@ -295,23 +295,23 @@ public static void main(String[] args) {
                     System.out.println(" ");
                     break;
                 case 2:
-                    System.out.print("Enter crime id: ");
+                	System.out.print("Enter crime id:                        ");
                     int crimeId2 = scanner.nextInt();
                     scanner.nextLine();
 
-                    System.out.print("Enter type (Robbery/Theft/Homicide): ");
+                    System.out.print("Enter type (Robbery/Theft/Homicide):   ");
                     String type2 = scanner.nextLine();
 
-                    System.out.print("Enter description: ");
+                    System.out.print("Enter description:                     ");
                     String description2 = scanner.nextLine();
 
-                    System.out.print("Enter police station area: ");
+                    System.out.print("Enter police station area:             ");
                     String psArea2 = scanner.nextLine();
 
-                    System.out.print("Enter date: ");
+                    System.out.print("Enter date:                            ");
                     String date2 = scanner.nextLine();
 
-                    System.out.print("Enter name of victim: ");
+                    System.out.print("Enter name of victim:                  ");
                     String victimName2 = scanner.nextLine();
 
                     crimeManagementSystem.updateCrime(crimeId2, type2, description2, psArea2, date2, victimName2);
@@ -320,26 +320,26 @@ public static void main(String[] args) {
                     System.out.println(" ");
                     break;
                 case 3:
-                    System.out.print("Enter criminal id: ");
+                    System.out.print("Enter crime id:                        ");
                     int criminalId = scanner.nextInt();
                     scanner.nextLine();
 
-                    System.out.print("Enter name: ");
+                    System.out.print("Enter name:                            ");
                     String name = scanner.nextLine();
 
-                    System.out.print("Enter dob: ");
+                    System.out.print("Enter dob:                             ");
                     String dob = scanner.nextLine();
 
-                    System.out.print("Enter gender: ");
+                    System.out.print("Enter gender:                          ");
                     String gender = scanner.nextLine();
 
-                    System.out.print("Enter identifying mark: ");
+                    System.out.print("Enter identifying mark:                ");
                     String identifyingMark = scanner.nextLine();
 
-                    System.out.print("Enter first arrest date: ");
+                    System.out.print("Enter first arrest date:               ");
                     String firstArrestDate = scanner.nextLine();
 
-                    System.out.print("Enter arrested from police station area: ");
+                    System.out.print("Enter arrested from police station area:");
                     String arrestedFromPsArea = scanner.nextLine();
 
                     crimeManagementSystem.addCriminal(criminalId, name, dob, gender, identifyingMark, firstArrestDate, arrestedFromPsArea);
@@ -349,7 +349,7 @@ public static void main(String[] args) {
                     break;
                 case 4:
                 	System.out.print("Try again after sometime !");
-//                    System.out.print("Enter criminal id: ");
+//                    System.out.print("Enter crime id:                        ");
 //                    int criminalId2 = scanner.nextInt();
 //                    scanner.nextLine();
 //
@@ -358,9 +358,9 @@ public static void main(String[] args) {
 //                    		break;
 
                 case 5:
-                	System.out.print("Enter criminal id: ");
+                	System.out.print("Enter crime id:                         ");
                 	int criminalId3 = scanner.nextInt();
-                    System.out.print("Enter crime id: ");
+                    System.out.print("Enter crime id:                         ");
                     int crimeId3 = scanner.nextInt();
 
                     crimeManagementSystem.assignCriminalToCrime(criminalId3, crimeId3);
@@ -370,19 +370,19 @@ public static void main(String[] args) {
                     break;
                     
                 case 6:
-                    System.out.print("Enter criminal id: ");
+                    System.out.print("Enter crime id:                         ");
                     int criminalId4 = scanner.nextInt();
 
-                    System.out.print("Enter crime id: ");
+                    System.out.print("Enter crime id:                         ");
                     int crimeId4 = scanner.nextInt();
 
                     crimeManagementSystem.removeCriminalFromCrime(criminalId4, crimeId4);
                     System.out.println(" ");
-                    System.out.println("              || धन्यवाद् , 'सुरक्षा आपकी, संकल्प हमारा' || ");
+                    System.out.println("              || धन्यवाद् , 'सुरक्षा आपकी, संकल्  हमारा' || ");
                     System.out.println(" ");
                     break;
                 case 7:
-                    System.out.print("Enter crime id: ");
+                    System.out.print("Enter crime id:                         ");
                     int crimeId5 = scanner.nextInt();
 
                     crimeManagementSystem.deleteCrime(crimeId5);
@@ -391,7 +391,7 @@ public static void main(String[] args) {
                     System.out.println(" ");
                     break;
                 case 8:
-                    System.out.print("Enter criminal id: ");
+                    System.out.print("Enter crime id:                         ");
                     int criminalId5 = scanner.nextInt();
 
                     crimeManagementSystem.deleteCriminal(criminalId5);
