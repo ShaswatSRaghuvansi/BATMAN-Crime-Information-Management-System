@@ -55,4 +55,3 @@ crime that happened in Gotham City under a particular police station.
 4. Can search for crime by description.
 ```
 
-### धन्यवाद् , 'सुरक्षा आपकी, संकल्प हमारा'
