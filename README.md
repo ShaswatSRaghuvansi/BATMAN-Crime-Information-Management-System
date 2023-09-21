@@ -45,7 +45,7 @@ crime that happened in Gotham City under a particular police station.
 8. delete criminal using criminal_id.
 ```
 
-## 👤 Facilities available for public:
+## 👥 Facilities available for public:
 
 ```
 1. Can view total crime for each police station area for a date range.
