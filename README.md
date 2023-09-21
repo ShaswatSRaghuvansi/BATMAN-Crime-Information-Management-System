@@ -1,7 +1,7 @@
-# B.A.T.M.A.N. Crime Information Management System
+# B.A.T.M.A.N. Crime Information Management System 🦇
 ![project2](https://github.com/ShaswatSRaghuvansi/BATMAN-Crime-Information-Management-System/assets/115460278/c5794e8f-6f01-4f38-af03-4e41057540c6)
 
-## Powered By
+## 💪 Powered By 
 <ul>
 <li>Core JAVA</li>
 <li>OOPs Concepts</li>
@@ -23,7 +23,7 @@ crime that happened in Gotham City under a particular police station.
 - Admin role
 - Public role (Not Accepting Currently)
 
-## Admin can:
+## 🧑‍💻 Admin can: 
 
 **Note: Admin Username: ‘admin’ password: ‘admin’**
 
@@ -45,7 +45,7 @@ crime that happened in Gotham City under a particular police station.
 8. delete criminal using criminal_id.
 ```
 
-## Facilities available for public:
+## 👤 Facilities available for public:
 
 ```
 1. Can view total crime for each police station area for a date range.
